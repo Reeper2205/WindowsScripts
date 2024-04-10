@@ -1,0 +1,2 @@
+firstname,lastname,Maildomain,SAM,OU,DOB,Description,Email
+joe,bloggs,contoso.ie,123456789,",OU=users,DC=contoso,DC=ie",01/01/1970,TESTING,test@email.ie
